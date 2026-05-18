@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="SPSS">
+  <rect width="256" height="256" rx="0" fill="#050505"/>
+  <defs>
+    <linearGradient id="spss-top" x1="84" y1="70" x2="186" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6c87ff"/>
+      <stop offset=".48" stop-color="#242753"/>
+      <stop offset="1" stop-color="#534bff"/>
+    </linearGradient>
+    <linearGradient id="spss-mid" x1="72" y1="74" x2="144" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3d79ff"/>
+      <stop offset=".55" stop-color="#5c7dff"/>
+      <stop offset="1" stop-color="#9d72ff"/>
+    </linearGradient>
+    <linearGradient id="spss-bottom" x1="78" y1="184" x2="186" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a276ff"/>
+      <stop offset=".45" stop-color="#2a2753"/>
+      <stop offset="1" stop-color="#6c58ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M82 58h92a14 14 0 0 1 0 28H82z" fill="url(#spss-top)"/>
+  <path d="M80 64a14 14 0 0 1 20-1l53 60a14 14 0 0 1 0 18l-53 60a14 14 0 1 1-21-18l45-51-45-51a14 14 0 0 1 1-17z" fill="url(#spss-mid)"/>
+  <path d="M82 170h92a14 14 0 0 1 0 28H82z" fill="url(#spss-bottom)"/>
+  <circle cx="82" cy="72" r="16" fill="#f4f4f7"/>
+  <circle cx="174" cy="72" r="16" fill="#f4f4f7"/>
+  <circle cx="128" cy="128" r="16" fill="#f4f4f7"/>
+  <circle cx="82" cy="184" r="16" fill="#f4f4f7"/>
+  <circle cx="174" cy="184" r="16" fill="#f4f4f7"/>
+</svg>

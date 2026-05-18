@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title id="title">Méthodologie</title>
+  <defs>
+    <linearGradient id="g" x1="42" y1="20" x2="134" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6d28d9"/>
+      <stop offset="0.55" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#18c37e"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="96" rx="18" fill="#f8fbff"/>
+  <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+    <path d="M42 30c18-7 33-5 47 7v40c-14-12-29-14-47-7V30Z"/>
+    <path d="M89 37c14-12 29-14 47-7v40c-18-7-33-5-47 7V37Z"/>
+    <path d="M154 67h36"/>
+    <path d="M154 50h78"/>
+    <path d="M154 33h105"/>
+    <circle cx="275" cy="33" r="7"/>
+    <circle cx="246" cy="50" r="7"/>
+    <circle cx="204" cy="67" r="7"/>
+  </g>
+</svg>

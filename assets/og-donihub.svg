@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">DoniHub</title>
+  <desc id="desc">Formations pratiques aux outils de recherche scientifique</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".58" stop-color="#f7fdff"/>
+      <stop offset="1" stop-color="#e8f9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="110" r="180" fill="#00b8f0" opacity=".12"/>
+  <circle cx="103" cy="534" r="150" fill="#005b78" opacity=".08"/>
+  <rect x="88" y="82" width="1024" height="466" rx="44" fill="#ffffff" stroke="#b9e8f7" stroke-width="2"/>
+  <text x="130" y="235" fill="#00b8f0" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="800">DoniHub</text>
+  <text x="130" y="323" fill="#05070a" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">Formation aux outils de recherche scientifique</text>
+  <text x="130" y="395" fill="#52606b" font-family="Arial, Helvetica, sans-serif" font-size="34">Méthodologie, Zotero, KoboToolbox, SPSS et Microsoft Word</text>
+  <rect x="130" y="455" width="278" height="52" rx="26" fill="#00b8f0"/>
+  <text x="162" y="490" fill="#06131a" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">www.donihub.com</text>
+</svg>
